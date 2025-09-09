@@ -12,15 +12,6 @@
     <t-space direction="vertical">
       <t-alert theme="info">
         <template #message>
-          开源：
-          <t-link
-            theme="primary"
-            underline
-            href="https://github.com/uxiaohan/PayQrcode"
-            target="_blank"
-          >
-            PayQrcode
-          </t-link>
           ，技术支持：
           <t-link theme="primary" underline href="https://m.chaoyuevip.cn" target="_blank">
             青飞翔博客
