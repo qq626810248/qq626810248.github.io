@@ -22,8 +22,8 @@
             PayQrcode
           </t-link>
           ，技术支持：
-          <t-link theme="primary" underline href="https://www.vvhan.com" target="_blank">
-            韩小韩博客
+          <t-link theme="primary" underline href="https://m.chaoyuevip.cn" target="_blank">
+            青飞翔博客
           </t-link>
         </template>
       </t-alert>
