@@ -12,7 +12,7 @@
     <t-space direction="vertical">
       <t-alert theme="info">
         <template #message>
-          ，技术支持：
+          技术支持：
           <t-link theme="primary" underline href="https://m.chaoyuevip.cn" target="_blank">
             青飞翔博客
           </t-link>
