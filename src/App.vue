@@ -12,6 +12,16 @@
     <t-space direction="vertical">
       <t-alert theme="info">
         <template #message>
+          支持一下：
+          <t-link
+            theme="primary"
+            underline
+            href="https://qq626810248.oss-cn-beijing.aliyuncs.com/%E5%9B%BE%E7%89%87/ds.png"
+            target="_blank"
+          >
+            打赏
+          </t-link>
+          ，
           技术支持：
           <t-link theme="primary" underline href="https://m.chaoyuevip.cn" target="_blank">
             青飞翔博客
