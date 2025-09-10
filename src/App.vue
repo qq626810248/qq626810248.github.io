@@ -19,7 +19,7 @@
       <div class="notice-content">
         <p>1. 【功能更新】新增二维码清晰度优化功能，合并后支持高清导出</p>
         <p>2. 【温馨提示】建议使用 Chrome 或 Edge 浏览器，避免兼容性问题</p>
-        <p>3. 【资源更新】博客新增「二维码设计教程」，欢迎前往学习</p>
+        <p>3. 【资源更新】博客新增「二维码设计教程」，欢迎前往学习哦</p>
       </div>
       <template #footer>
         <<t-button theme="primary" @click="isNoticeShow = false">我知道了</</t-button>
