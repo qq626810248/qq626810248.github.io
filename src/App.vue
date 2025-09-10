@@ -21,10 +21,9 @@
           >
             打赏
           </t-link>
-          ，
-          技术支持：
+          ，资源网：
           <t-link theme="primary" underline href="https://m.chaoyuevip.cn" target="_blank">
-            青飞翔博客
+            博客
           </t-link>
         </template>
       </t-alert>
